@@ -1,0 +1,1 @@
+https://api.taxprogsp.co.in/v1.03/dec/authenticate?action=ACCESSTOKEN&aspid=1613471119&password=Dhanchhaya@123&gstin=24AAGCA8671A1ZX&username=artisilkmi_API_ASM&ewbpwd=Artisilkmills@1

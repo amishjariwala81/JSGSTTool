@@ -1,0 +1,14 @@
+﻿Build started...
+1>------ Build started: Project: JSGSTTool, Configuration: Release Any CPU ------
+1>E:\Jupiter\JSDotNetProject\EWayBillTool\frmEInvoice.vb(528,63): warning BC42104: Variable 'eInvGen' is used before it has been assigned a value. A null reference exception could result at runtime.
+1>E:\Jupiter\JSDotNetProject\EWayBillTool\frmEInvoice.vb(221,13): warning BC42024: Unused local variable: 'nItemCtr'.
+1>E:\Jupiter\JSDotNetProject\EWayBillTool\frmEInvoice.vb(221,23): warning BC42024: Unused local variable: 'nRowCtr'.
+1>E:\Jupiter\JSDotNetProject\EWayBillTool\frmEWayBill.vb(496,21): warning BC42358: Because this call is not awaited, execution of the current method continues before the call is completed. Consider applying the Await operator to the result of the call.
+1>E:\Jupiter\JSDotNetProject\EWayBillTool\AppMain.vb(411,5): warning BC42105: Function 'UnChkAll' doesn't return a value on all code paths. A null reference exception could occur at run time when the result is used.
+1>E:\Jupiter\JSDotNetProject\EWayBillTool\AppMain.vb(422,5): warning BC42105: Function 'ChkAll' doesn't return a value on all code paths. A null reference exception could occur at run time when the result is used.
+1>E:\Jupiter\JSDotNetProject\EWayBillTool\AppMain.vb(526,5): warning BC42105: Function 'WriteToErrorLog' doesn't return a value on all code paths. A null reference exception could occur at run time when the result is used.
+1>E:\Jupiter\JSDotNetProject\EWayBillTool\AppMain.vb(582,5): warning BC42105: Function 'SetTokenDetail' doesn't return a value on all code paths. A null reference exception could occur at run time when the result is used.
+1>E:\Jupiter\JSDotNetProject\EWayBillTool\frmEWayBill.vb(577,23): warning BC42356: This async method lacks 'Await' operators and so will run synchronously. Consider using the 'Await' operator to await non-blocking API calls, or 'Await Task.Run(...)' to do CPU-bound work on a background thread.
+1>E:\Jupiter\JSDotNetProject\EWayBillTool\frmEWayBill.vb(580,23): warning BC42356: This async method lacks 'Await' operators and so will run synchronously. Consider using the 'Await' operator to await non-blocking API calls, or 'Await Task.Run(...)' to do CPU-bound work on a background thread.
+1>  JSGSTTool -> E:\Jupiter\JSDotNetProject\EWayBillTool\bin\Release\JSGSTTool.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========

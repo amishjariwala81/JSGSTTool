@@ -1,0 +1,10 @@
+https://api.taxprogsp.co.in/eicore/dec/v1.03/Invoice/irnbydocdetails?
+doctype=<Doc. Type>&docnum=<Doc. No.>&docdate=<Doc. date>&aspid=**********&password=**********&Gstin=**********&AuthToken=**********&user_name=**********
+
+ 
+
+
+
+https://api.taxprogsp.co.in/eicore/dec/v1.03/Invoice/irnbydocdetails?doctype=INV&docnum=6931/Y/20-21&docdate=26/12/2020&aspid=1613471119&password=Dhanchhaya@123&Gstin=24AABCR1276M1Z9&AuthToken=OuMRAUZlc12dCPkuvKgYakQW7&user_name=24AABCR127_API_SY
+
+https://api.taxprogsp.co.in/eivital/dec/v1.03/auth?aspid=1613471119&password=Dhanchhaya@123&Gstin=24AABCR1276M1Z9&user_name=24AABCR127_API_SY&eInvPwd=SHAKTIYARNPVTL
